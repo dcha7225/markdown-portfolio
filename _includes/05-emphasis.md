@@ -1,1 +1,1 @@
-I _love pizza and **dogs** _
+I love pizza and **dogs** 
